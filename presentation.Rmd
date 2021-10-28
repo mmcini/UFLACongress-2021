@@ -1,0 +1,123 @@
+---
+title: CIUFLA XXXIV - 2021
+subtitle: Gênese de Latossolos via sensores próximos
+author: Marcelo Mancini
+date: "`r Sys.time()`"
+output:
+    xaringan::moon_reader:
+        lib_dir: libs
+        css: [default, metropolis-fonts]
+        nature:
+            ratio: 16:9
+            countIncrementalSlides: false
+---
+
+layout: true
+
+```{css, echo = F}
+.remark-slide-content {
+    font-size: 150%;
+    }
+
+.whitecolor {
+    color: white;
+    }
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    left: 10px;
+    font-size: 80%
+    color: white;
+    }
+
+a {
+color: white;
+}
+```
+
+# Solos Brasileiros
+
+---
+
+## Latossolos
+
+A classe de solos mais abundante no Brasil é a dos **Latossolos**.
+
+--
+
+Ela é caracterizada por:
+ - Profundidade
+ - Intemperismo
+ - Homogeneidade **aparente**
+
+---
+
+class: whitecolor
+background-image: url(assets/latossolo_perfil_1.jpg)
+background-size: 1250px
+
+ - Profundidade
+--
+
+background-image: url(assets/latossolo_perfil_2.jpg)
+background-size: 1250px
+
+.footer[
+Fonte: <a href="https://www.agricultura.pr.gov.br/PronasolosPR/Pagina/ESTRUTURA-EM-LATOSSOLOS-VERMELHOS-DE-ROCHAS-ERUPTIVAS-NA-BACIA-HIDROGRAFICA">PronasolosPR</a>
+
+]
+
+- Intemperismo
+
+--
+
+- Homogeneidade
+---
+
+layout: false
+
+class: inverse, center, middle
+
+# São homogêneos quimicamente?
+--
+
+.pull-right[...na verdade não]
+
+---
+
+.center[
+```{r, echo = F, out.width = "90%"}
+knitr::include_graphics("assets/area_de_estudo.jpg")
+```
+
+]
+---
+
+layout: true
+
+# Metodologia
+---
+
+background-image: url("assets/area_de_estudo.jpg")
+background-position: right
+background-size: 600px
+
+## Área de estudo
+
+ - Latossolo Vermelho e Vermelho-Amarelo
+--
+
+ - 2 m de perfil
+--
+
+ - 50 cm de largura
+--
+
+ - 5 amostras em 20 profundidades
+--
+
+ - 100 amostras de cada perfil
+---
+
+
