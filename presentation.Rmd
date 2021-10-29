@@ -1,8 +1,10 @@
 ---
-title: CIUFLA XXXIV - 2021
+title: |
+    | CIUFLA XXXIV
+    | 
 subtitle: Gênese de Latossolos via sensores próximos
 author: Marcelo Mancini
-date: "`r Sys.time()`"
+date: "`r Sys.Date()`"
 output:
     xaringan::moon_reader:
         lib_dir: libs
@@ -46,8 +48,14 @@ A classe de solos mais abundante no Brasil é a dos **Latossolos**.
 --
 
 Ela é caracterizada por:
+--
+
  - Profundidade
+--
+
  - Intemperismo
+--
+
  - Homogeneidade **aparente**
 
 ---
@@ -63,7 +71,10 @@ background-image: url(assets/latossolo_perfil_2.jpg)
 background-size: 1250px
 
 .footer[
-Fonte: <a href="https://www.agricultura.pr.gov.br/PronasolosPR/Pagina/ESTRUTURA-EM-LATOSSOLOS-VERMELHOS-DE-ROCHAS-ERUPTIVAS-NA-BACIA-HIDROGRAFICA">PronasolosPR</a>
+Fonte:
+<a href="https://www.agricultura.pr.gov.br/PronasolosPR/Pagina/ESTRUTURA-EM-LATOSSOLOS-VERMELHOS-DE-ROCHAS-ERUPTIVAS-NA-BACIA-HIDROGRAFICA">
+PronasolosPR
+</a>
 ]
 
 - Intemperismo
@@ -88,7 +99,6 @@ class: inverse, center, middle
 ```{r, echo = F, out.width = "90%"}
 knitr::include_graphics("assets/area_de_estudo.jpg")
 ```
-
 ]
 ---
 
@@ -196,7 +206,12 @@ class: whitecolor
 background-image: url("assets/pxrf_image_1.jpg")
 background-size: 1250px
 
-.footer[Fonte: <a href="https://www.olympus-ims.com/en/olympus-xrf-xrd-for-lithium-exploration/">Olympus</a>]
+.footer[
+Fonte:
+<a href="https://www.olympus-ims.com/en/olympus-xrf-xrd-for-lithium-exploration/">
+Olympus
+</a>
+]
 
  - Portable X-ray Fluorescence Spectrometer (pXRF)
 --
@@ -217,7 +232,12 @@ background-image: url("assets/visnir_image_2.jpg")
 background-size: 700px
 background-position: 120% 100%
 
-.footer[Fonte: <a href="https://www.alphaomega-electronics.com/en/spectrometers-spectro-radiometers/4040-leaf-clip-spectral-reflectance-leaf-clip.html">AlphaOmega</a>]
+.footer[
+Fonte:
+<a href="https://www.alphaomega-electronics.com/en/spectrometers-spectro-radiometers/4040-leaf-clip-spectral-reflectance-leaf-clip.html">
+AlphaOmega
+</a>
+]
 
  - Visible Near-Infrared Spectrometer (Vis-NIR)
 --
@@ -271,10 +291,10 @@ class: whitecolor
 background-image: url("assets/soil_image.png")
 background-size: 1250px
 
-# Benefícios
+# Conclusões
 --
 
-### Sensoriamento próximo solos tropicais...
+### Sensoriamento próximo em solos tropicais...
 
  - Possibilita analisar grande número de amostras em pouco tempo
 --
@@ -288,7 +308,14 @@ background-size: 1250px
  - Dados muito diversos (diferentes espectros)
 --
 
- - Amostras são reutiizáveis
+ - Amostras são reutilizáveis
 --
 
  - Ambientalmente correto
+---
+
+class: whitecolor, center, middle
+background-image: url("assets/soil_image.png")
+background-size: 1250px
+
+# Muito obrigado!
