@@ -1,9 +1,9 @@
 ---
-title: |
-    | CIUFLA XXXIV
+title: CIUFLA XXXIV
+subtitle: |
+    | Gênese de Latossolos via Sensores Próximos
     | 
-subtitle: Gênese de Latossolos via sensores próximos
-author: Marcelo Mancini
+author: Marcelo Mancini, Lucas Benedet, Anita Teixeira, Sérgio Henrique Silva, Luiz Roberto Guimarães Guilherme, Nilton Curi
 date: "`r Sys.Date()`"
 output:
     xaringan::moon_reader:
@@ -43,22 +43,12 @@ color: inherit;
 
 ## Latossolos
 
-A classe de solos mais abundante no Brasil é a dos **Latossolos**.
+A classe mais abundante no **Brasil**.
 
 --
 
 Ela é caracterizada por:
 --
-
- - Profundidade
---
-
- - Intemperismo
---
-
- - Homogeneidade **aparente**
-
----
 
 class: whitecolor
 background-image: url(assets/latossolo_perfil_1.jpg)
