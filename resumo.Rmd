@@ -1,0 +1,49 @@
+---
+title: CIUFLA XXXIV\par Gênese de Latossolos via Sensores Próximos
+author: Marcelo Mancini
+date: 29-10-2021
+fontsize: 10pt
+width: 150mm
+geometry:
+    textwidth=150mm
+indent: 0pt
+abstract_title: Resumo
+keyword_title: Palavras-chave
+keywords:
+    - Solos Tropicais
+    - pXRF
+    - Vis-NIR
+    - Oxisols
+    - Morphometrics
+output:
+    Sorte::abstract_template
+---
+
+Latossolos constituem a classe de solo mais abundante no Brasil. É
+caracterizada por solos muito desenvolvidos e intemperizados. Apesar de ser a
+classe mais comum, sua elevada profundidade devido ao longo tempo de formação
+inibe estudos mais detalhados sobre a variação de seus atributos ao longo dos
+profundos perfis, dificultando o estudo de sua gênese. Aqui, o objetivo é
+superar este obstáculo através de novas tecnologias: os sensores próximos. Dois
+perfis de Latossolos foram amostrados por meio de um grid de 100 amostras cada
+no campus da UFLA. As amostras foram submetidas à análise de dois sensores: o
+Portable X-ray Fluorescence Spectrometer (pXRF) e o Visible Near-Infrared
+Spectrometer (Vis-NIR). Nas análises por pXRF, cada amostra foi analisada por
+60 s, e posteriormente espacializada ao longo do perfil utilizando-se a
+interpolação Multilevel B-Splines. As análises por Vis-NIR ocorreram por
+horizonte, sendo as amostras escaneadas por 10 s cada, resultando em 100
+leituras por amostra, cuja média fora calculada. Os resultados demonstraram que
+os sensores são capazes de identificar com êxito a variação química através dos
+perfis, mesmo destes solos muito intemperizados. Os espectros fornecidos pelo
+Vis-NIR detectaram diferentes intensidades de reflectância em cada horizonte.
+Os espectros destacaram a maior presença de hematita no Latossolo Vermelho e de
+caulinita no Latossolo Vermelho-Amarelo. As diferenças de reflectância entre
+horizontes foram maiores no Vermelho-Amarelo. A distribuição de concentrações
+químicas ao longo dos perfis demonstraram variação significativa. Faixas de
+acúmulo de Si e Al puderam ser identificadas entre os horizontes B~1~ e B~2~ no
+Latossolo Vermelho, e um maior grau de intemperismo foi identificado no
+Latossolo Vermelho-Amarelo, indicando sua formação acima de um material
+pré-intemperizado. Os sensores próximos mostram-se ferramentas valiosas para
+viabilizar o estudo dos profundos solos tropicais que, apesar de possuírem
+aparência homogênea, revelam traços químicos ricos em informações sobre seus
+antigos processos de formação.
