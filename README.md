@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="docs/assets/ufla_logo.png" alt="UFLA" width="200px">
+    <img src="docs/assets/ufla_logo.png" alt="UFLA" width="400px">
 </p>
 
 # CIUFLA XXXIV - 2021
